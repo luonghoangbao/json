@@ -1,27 +1,27 @@
-{
+[
     {
-      "id": "1",
-      "email": "hoangbao@gmail.com",
-      "password": "hoangbao123"
+        "id": "1",
+        "email": "hoangbao@gmail.com",
+        "password": "hoangbao123"
     },
     {
-      "id": "2",
-      "email": "chivi@gmail.com",
-      "password": "chivi123"
+        "id": "2",
+        "email": "chivi@gmail.com",
+        "password": "chivi123"
     },
     {
-      "id": "3",
-      "email": "anhbinh@gmail.com",
-      "password": "anhbinh123"
+        "id": "3",
+        "email": "anhbinh@gmail.com",
+        "password": "anhbinh123"
     },
     {
-      "id": "4",
-      "email": "anhthang@gmail.com",
-      "password": "anhthang123"
+        "id": "4",
+        "email": "anhthang@gmail.com",
+        "password": "anhthang123"
     },
     {
-      "id": "5",
-      "email": "hoanghung@gmail.com",
-      "password": "hoanghung123"
+        "id": "5",
+        "email": "hoanghung@gmail.com",
+        "password": "hoanghung123"
     }
-}
+]
